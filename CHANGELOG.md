@@ -1,5 +1,9 @@
 # Changelog
 
+## [10.9.1](https://github.com/npm/cli/compare/v10.9.0...v10.9.1) (2024-10-03)
+### Bug Fixes
+* [`534ad77`](https://github.com/npm/cli/commit/534ad7789e5c61f579f44d782bdd18ea3ff1ee20) [#7795](https://github.com/npm/cli/pull/7795) remove unused parameters catch statements (#7795) (@btea)
+
 ## [10.9.0](https://github.com/npm/cli/compare/v10.8.3...v10.9.0) (2024-10-03)
 ### Features
 * [`4d57928`](https://github.com/npm/cli/commit/4d57928ea20c1672864dc0c8ebaff5d877e61c9c) [#7766](https://github.com/npm/cli/pull/7766) devEngines (#7766) (@reggi)
